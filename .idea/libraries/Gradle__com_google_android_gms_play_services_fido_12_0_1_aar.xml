@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-fido:12.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b03a876a436c77ad785e24aadc73c899/jetified-play-services-fido-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b03a876a436c77ad785e24aadc73c899/jetified-play-services-fido-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14b525a370371d2fda03f981e36f833c/jetified-play-services-fido-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3b0da8d78cafb6b656513398e8f4a8c6/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3b0da8d78cafb6b656513398e8f4a8c6/transformed/jetified-play-services-fido-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3b0da8d78cafb6b656513398e8f4a8c6/transformed/jetified-play-services-fido-12.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
